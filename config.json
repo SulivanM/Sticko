@@ -1,0 +1,9 @@
+{
+    "min_direction_change_delay": 5.0,
+    "max_direction_change_delay": 60.0,
+    "min_pause_duration": 2.0,
+    "max_pause_duration": 4.0,
+    "jump_height": 50,
+    "jump_speed": 2,
+    "jump_probability": 0.001
+}  
